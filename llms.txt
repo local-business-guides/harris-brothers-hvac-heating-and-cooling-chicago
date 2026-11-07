@@ -25,6 +25,9 @@
 - [HVAC Maintenance Chicago for Homeowners](https://local-business-guides.github.io/harris-brothers-hvac-heating-and-cooling-chicago/hvac-maintenance-chicago/): HVAC Maintenance Chicago can help you plan heating and cooling care at home. Call Harris Brothers HVAC in Chicago to discuss your next service visit.
 - [Top HVAC Contractor Il in Chicago | Harris Brothers](https://local-business-guides.github.io/harris-brothers-hvac-heating-and-cooling-chicago/top-hvac-contractor-il-in-chicago/): Top HVAC Contractor Il in Chicago: compare repair and installation needs with a local team. Call Harris Brothers HVAC to talk through your project.
 
+## Newsroom
+- [Harris Brothers HVAC Publishes Guide to HVAC Contractor Chicago IL](https://local-business-guides.github.io/harris-brothers-hvac-heating-and-cooling-chicago/news/2026-11-07-harris-brothers-hvac-publishes-guide-to-hvac/): Harris Brothers HVAC has published a Chicago-focused guide, with related video, podcast and audio versions available online. (2026-11-07)
+
 ## Pages
 - [HVAC Contractor in Chicago, Illinois](https://local-business-guides.github.io/harris-brothers-hvac-heating-and-cooling-chicago/): Get dependable heating and cooling support for your home or business in Chicago, with help for routine needs and urgent problems. Call +1224-505-2800.
 - [About Harris Brothers HVAC](https://local-business-guides.github.io/harris-brothers-hvac-heating-and-cooling-chicago/about/): About Harris Brothers HVAC, Heating & Cooling, Chicago.
@@ -32,4 +35,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/harris-brothers-hvac-heating-and-cooling-chicago/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/harris-brothers-hvac-heating-and-cooling-chicago/news/rss.xml)
 - [Main resource site](https://harris-brothers-hvac-chicago.localwebsites.chatgpt.site)
